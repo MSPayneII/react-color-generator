@@ -18,7 +18,7 @@
 
 ## Reason for choosing this project:
 
-This was a simple hands-on React project provided by John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with forms, useState, and React in general.
+This was a simple hands-on React project provided by John Smilga as part of his [Udemy React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/). This project was designed to help students become familiar with forms, useState, and React in general.
 
 ## Functionality:
 
